@@ -1,0 +1,2 @@
+# Technocrat
+Hand gesture recognition
